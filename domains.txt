@@ -1,0 +1,16 @@
+www.armysbir.army.mil 199.209.147.4
+ite.army.mil 199.209.144.238
+extranet.amrdec.army.mil 199.209.144.156
+adviz.army.mil 199.209.144.123
+rsic.army.mil 199.209.144.106
+thingworx.amrdec.army.mil 199.209.144.232
+rsic.redstone.army.mil 199.209.144.106
+view.amrdec.army.mil 199.209.144.166
+rdmr-asa.amrdec.army.mil 199.209.145.26
+extranet2.amrdec.army.mil 199.209.144.21
+adfs.amrdec.army.mil 199.209.144.105
+knowledgecenter-cac.amrdec.army.mil 199.209.144.97
+rocv.army.mil 199.209.144.131
+redsa8-01.ice.amrdec.army.mil 199.209.145.36
+army.link16.amrdec.army.mil 199.209.144.239
+autodiscover.amrdec.army.mil 199.209.144.8
