@@ -32,3 +32,5 @@ Currently scans top 20 most common TCP ports:
 	3389: "ms-wbt-server",
 	5900: "vnc",
 	8080: "http-proxy",
+
+And allows ~75 milliseconds per ip address. This is adjustable based of connection.
